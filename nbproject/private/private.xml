@@ -5,10 +5,12 @@
         <group>
             <file>file:/D:/Programer/javanetbeans/pbopmb/src/org/delimare/pmb/assets/tambahpeserta.png</file>
             <file>file:/D:/Programer/javanetbeans/pbopmb/src/org/delimare/pmb/function/Utils.java</file>
+            <file>file:/D:/Programer/javanetbeans/pbopmb/src/org/delimare/pmb/gui/formUtama.java</file>
             <file>file:/D:/Programer/javanetbeans/pbopmb/src/org/delimare/pmb/function/Logger.java</file>
             <file>file:/D:/Programer/javanetbeans/pbopmb/src/org/delimare/pmb/entitymanager/AdminManager.java</file>
             <file>file:/D:/Programer/javanetbeans/pbopmb/src/org/delimare/pmb/gui/Main.java</file>
             <file>file:/D:/Programer/javanetbeans/pbopmb/src/org/delimare/pmb/gui/tables/JTableProgramStudi.java</file>
+            <file>file:/D:/Programer/javanetbeans/pbopmb/src/org/delimare/pmb/gui/FormPeserta.java</file>
             <file>file:/D:/Programer/javanetbeans/pbopmb/src/org/delimare/pmb/function/Fungsi.java</file>
             <file>file:/D:/Programer/javanetbeans/pbopmb/src/org/delimare/pmb/gui/FormTambahPeserta.java</file>
         </group>

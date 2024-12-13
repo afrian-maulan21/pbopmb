@@ -107,7 +107,7 @@ public class FormUtama extends javax.swing.JFrame {
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel3.setText("MIE AYAM DAN BAKSO PAK WAWAN ");
+        jLabel3.setText("PMB UNIVERSITAS AMIKOM PURWOKERTO");
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
@@ -116,7 +116,7 @@ public class FormUtama extends javax.swing.JFrame {
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel3Layout.createSequentialGroup()
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jLabel3)
-                .addGap(142, 142, 142))
+                .addGap(99, 99, 99))
         );
         jPanel3Layout.setVerticalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -184,7 +184,7 @@ public class FormUtama extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnProgramStudiActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnProgramStudiActionPerformed
-        new FormProgramStudi().setVisible(true);
+        Utils.openFrame(this, new FormProgramStudi(), true);
         dispose();
     }//GEN-LAST:event_btnProgramStudiActionPerformed
 
